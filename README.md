@@ -1,6 +1,3 @@
-# New-repository
-azota-clone
-<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -15,8 +12,6 @@ azota-clone
     <a href="quiz.html" class="btn">Học sinh</a>
   </div>
 </body>
-</html>
-<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -52,8 +47,6 @@ azota-clone
     });
   </script>
 </body>
-</html>
-<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -108,8 +101,6 @@ azota-clone
     }, 1000);
   </script>
 </body>
-</html>
-<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
